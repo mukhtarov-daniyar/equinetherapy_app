@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "952958576363",
+    "project_id": "equinetherapy-f9b72",
+    "storage_bucket": "equinetherapy-f9b72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952958576363:android:1dc50adfd9022146ae00ae",
+        "android_client_info": {
+          "package_name": "com.amanatdevelopment.equinetherapy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952958576363-d97i6djlhvr0s4ulsq9v9e2sg7mvcj60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU0Cuu4RXQN7lMXtznHIy_XIhUQ0L-SD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952958576363-d97i6djlhvr0s4ulsq9v9e2sg7mvcj60.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "952958576363-e8nhrrfhevrc78osgfbn9dnemsj5qs5i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.amanatdevelopment.equinetherapy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
